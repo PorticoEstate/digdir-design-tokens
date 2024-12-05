@@ -2,7 +2,7 @@
   "tema-adminpanel": {
     "main": {
       "$type": "fontFamilies",
-      "$value": "Arial"
+      "$value": "IBM Plex Mono"
     },
     "bold": {
       "$type": "fontWeights",
