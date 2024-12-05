@@ -334,15 +334,15 @@
   "border-radius": {
     "1": {
       "$type": "borderRadius",
-      "$value": "min( {border-radius.base} , {border-radius.scale} *1)"
+      "$value": "{border-radius.scale} *1"
     },
     "2": {
       "$type": "borderRadius",
-      "$value": "min( {border-radius.base} , {border-radius.scale} *2)"
+      "$value": "{border-radius.scale} *2"
     },
     "3": {
       "$type": "borderRadius",
-      "$value": "min( {border-radius.base} , {border-radius.scale} *5)"
+      "$value": "{border-radius.scale} *5"
     },
     "4": {
       "$type": "borderRadius",
