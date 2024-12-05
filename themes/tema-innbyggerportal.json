@@ -360,6 +360,10 @@
       "$type": "borderRadius",
       "$value": "4"
     },
+    "default": {
+      "$type": "borderRadius",
+      "$value": "{border-radius.2}"
+    },
     "scale": {
       "$type": "borderRadius",
       "$value": "4"
