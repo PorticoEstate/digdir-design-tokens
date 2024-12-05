@@ -1,0 +1,25 @@
+{
+  "tokenSetOrder": [
+    "primitives/globals",
+    "primitives/size/default",
+    "primitives/modes/typography/primary/tema-innbyggerportal",
+    "primitives/modes/typography/primary/tema-adminpanel",
+    "primitives/modes/typography/secondary/tema-innbyggerportal",
+    "primitives/modes/typography/secondary/tema-adminpanel",
+    "primitives/modes/color-scheme/light/global",
+    "primitives/modes/color-scheme/light/tema-innbyggerportal",
+    "primitives/modes/color-scheme/light/tema-adminpanel",
+    "primitives/modes/color-scheme/dark/global",
+    "primitives/modes/color-scheme/dark/tema-innbyggerportal",
+    "primitives/modes/color-scheme/dark/tema-adminpanel",
+    "themes/tema-innbyggerportal",
+    "themes/tema-adminpanel",
+    "semantic/color",
+    "semantic/modes/main-color/accent",
+    "semantic/modes/support-color/brand1",
+    "semantic/modes/support-color/brand2",
+    "semantic/modes/support-color/brand3",
+    "semantic/style",
+    "Figma/components"
+  ]
+}
