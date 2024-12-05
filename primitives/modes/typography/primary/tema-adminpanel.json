@@ -2,7 +2,7 @@
   "tema-adminpanel": {
     "main": {
       "$type": "fontFamilies",
-      "$value": "Inter"
+      "$value": "IBM Plex Sans"
     },
     "bold": {
       "$type": "fontWeights",
