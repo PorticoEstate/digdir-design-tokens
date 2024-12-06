@@ -334,19 +334,19 @@
   "border-radius": {
     "1": {
       "$type": "borderRadius",
-      "$value": "{border-radius.scale} *1"
+      "$value": "{border-radius.base} *1"
     },
     "2": {
       "$type": "borderRadius",
-      "$value": "{border-radius.scale} *2"
+      "$value": "{border-radius.base} *2"
     },
     "3": {
       "$type": "borderRadius",
-      "$value": "{border-radius.scale} *4"
+      "$value": "{border-radius.base} *4"
     },
     "4": {
       "$type": "borderRadius",
-      "$value": "{border-radius.scale} *6"
+      "$value": "{border-radius.base} *6"
     },
     "5": {
       "$type": "borderRadius",
@@ -358,7 +358,11 @@
     },
     "base": {
       "$type": "borderRadius",
-      "$value": "8"
+      "$value": "4"
+    },
+    "default": {
+      "$type": "borderRadius",
+      "$value": "{border-radius.2}"
     },
     "scale": {
       "$type": "borderRadius",

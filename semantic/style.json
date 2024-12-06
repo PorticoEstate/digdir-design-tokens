@@ -258,7 +258,7 @@
     },
     "default": {
       "$type": "borderRadius",
-      "$value": "{border-radius.base}"
+      "$value": "{border-radius.default}"
     },
     "full": {
       "$type": "borderRadius",

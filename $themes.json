@@ -116,7 +116,9 @@
       "border-radius.3": "9a8b0f9bfc099dde4a155977ffc31ad6ee6d5a43",
       "border-radius.4": "024e3b48c4bdfd37ead3129cd685c1a4d0265bbc",
       "border-radius.5": "86f7ea7e78f4bead7582843273dd88d093e4629e",
+      "border-radius.6": "16966148f6c2927927c4307e0ef4d36c9e5521f4",
       "border-radius.base": "66d864acd0fd17b6a9680a497ef6b6aa6db3d35c",
+      "border-radius.default": "cfd53de018411f040abe9ddd50e599dbf2ba0b34",
       "border-radius.scale": "80417f9d38ff048c976f7b8b5e303562cf2c4f7e"
     },
     "$figmaStyleReferences": {
@@ -291,7 +293,9 @@
       "border-radius.3": "9a8b0f9bfc099dde4a155977ffc31ad6ee6d5a43",
       "border-radius.4": "024e3b48c4bdfd37ead3129cd685c1a4d0265bbc",
       "border-radius.5": "86f7ea7e78f4bead7582843273dd88d093e4629e",
+      "border-radius.6": "16966148f6c2927927c4307e0ef4d36c9e5521f4",
       "border-radius.base": "66d864acd0fd17b6a9680a497ef6b6aa6db3d35c",
+      "border-radius.default": "cfd53de018411f040abe9ddd50e599dbf2ba0b34",
       "border-radius.scale": "80417f9d38ff048c976f7b8b5e303562cf2c4f7e"
     },
     "$figmaStyleReferences": {
@@ -1418,6 +1422,7 @@
     "$figmaCollectionId": "VariableCollectionId:34811:5976",
     "$figmaModeId": "34811:5",
     "$figmaVariableReferences": {
+      "border-radius.default": "4955d1be7663bb1efcb25b230042183f1c632023",
       "color.accent.background-default": "9c13c0e7816bf08bd9426d637b9d2911cebba513",
       "color.accent.background-subtle": "828a90182801e7f96c569eddfc46f6d22763c946",
       "color.accent.surface-default": "5f40366c52c11443e5c97d42088c17a76fdd194e",
@@ -1556,10 +1561,11 @@
       "color.focus.inner": "295604ac36e3fc4622b48f2f2780f0d3b11a84e6",
       "color.focus.outer": "b6414a030c89c24f345e9dddebd5988eeabcba10",
       "disabled.opacity": "7c6726dcef44d236ff29829ccf9423bff9ca4abb",
+      "border-radius.xs": "04ed407537c935def88d5add3a30126f1e7f567b",
       "border-radius.sm": "8cdc2dc688c067c0d36bd0f57d9ba93cd62cdb9d",
       "border-radius.md": "d5273bf7dba4a6697f5f13b70fea2145a409ecb4",
       "border-radius.lg": "ce8a49c404ec256b4b8ac63aad4e229f8ad54258",
-      "border-radius.default": "4955d1be7663bb1efcb25b230042183f1c632023",
+      "border-radius.xl": "d7b3f280e194f4e78f2ff854f0bd22d6a273537f",
       "border-radius.full": "5489effafb2eae22c6a43fa2b6d34c0ba974a3c4",
       "spacing.0": "ca00a5cfc20747b5b524192d41b41a889943c6b2",
       "spacing.1": "3cdc5b7401a204918e0f62ed7138193756ff1be6",
