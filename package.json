@@ -11,6 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/PorticoEstate/digdir-design-tokens.git"
   },
+  "exports": {
+    ".": "./dist/portal.css",
+    "./*": "./dist/*"
+  },
   "author": "Henning Berge",
   "license": "GPL2"
 }
