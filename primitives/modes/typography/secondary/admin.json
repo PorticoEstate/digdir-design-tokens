@@ -1,8 +1,8 @@
 {
-  "tema-innbyggerportal": {
+  "admin": {
     "main": {
       "$type": "fontFamilies",
-      "$value": "Roboto"
+      "$value": "IBM Plex Mono"
     },
     "bold": {
       "$type": "fontWeights",

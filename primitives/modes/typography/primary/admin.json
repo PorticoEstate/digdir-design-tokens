@@ -1,8 +1,8 @@
 {
-  "tema-innbyggerportal": {
+  "admin": {
     "main": {
       "$type": "fontFamilies",
-      "$value": "Poppins"
+      "$value": "IBM Plex Sans"
     },
     "bold": {
       "$type": "fontWeights",

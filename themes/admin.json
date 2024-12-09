@@ -3,332 +3,332 @@
     "accent": {
       "1": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.accent.1}"
+        "$value": "{admin.accent.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.accent.2}"
+        "$value": "{admin.accent.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.accent.3}"
+        "$value": "{admin.accent.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.accent.4}"
+        "$value": "{admin.accent.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.accent.5}"
+        "$value": "{admin.accent.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.accent.6}"
+        "$value": "{admin.accent.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.accent.7}"
+        "$value": "{admin.accent.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.accent.8}"
+        "$value": "{admin.accent.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.accent.9}"
+        "$value": "{admin.accent.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.accent.10}"
+        "$value": "{admin.accent.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.accent.11}"
+        "$value": "{admin.accent.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.accent.12}"
+        "$value": "{admin.accent.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.accent.13}"
+        "$value": "{admin.accent.13}"
       },
       "contrast-1": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.accent.contrast-1}"
+        "$value": "{admin.accent.contrast-1}"
       },
       "contrast-2": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.accent.contrast-2}"
+        "$value": "{admin.accent.contrast-2}"
       }
     },
     "neutral": {
       "1": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.neutral.1}"
+        "$value": "{admin.neutral.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.neutral.2}"
+        "$value": "{admin.neutral.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.neutral.3}"
+        "$value": "{admin.neutral.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.neutral.4}"
+        "$value": "{admin.neutral.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.neutral.5}"
+        "$value": "{admin.neutral.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.neutral.6}"
+        "$value": "{admin.neutral.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.neutral.7}"
+        "$value": "{admin.neutral.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.neutral.8}"
+        "$value": "{admin.neutral.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.neutral.9}"
+        "$value": "{admin.neutral.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.neutral.10}"
+        "$value": "{admin.neutral.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.neutral.11}"
+        "$value": "{admin.neutral.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.neutral.12}"
+        "$value": "{admin.neutral.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.neutral.13}"
+        "$value": "{admin.neutral.13}"
       },
       "contrast-1": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.neutral.contrast-1}"
+        "$value": "{admin.neutral.contrast-1}"
       },
       "contrast-2": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.neutral.contrast-2}"
+        "$value": "{admin.neutral.contrast-2}"
       }
     },
     "brand1": {
       "1": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand1.1}"
+        "$value": "{admin.brand1.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand1.2}"
+        "$value": "{admin.brand1.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand1.3}"
+        "$value": "{admin.brand1.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand1.4}"
+        "$value": "{admin.brand1.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand1.5}"
+        "$value": "{admin.brand1.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand1.6}"
+        "$value": "{admin.brand1.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand1.7}"
+        "$value": "{admin.brand1.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand1.8}"
+        "$value": "{admin.brand1.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand1.9}"
+        "$value": "{admin.brand1.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand1.10}"
+        "$value": "{admin.brand1.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand1.11}"
+        "$value": "{admin.brand1.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand1.12}"
+        "$value": "{admin.brand1.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand1.13}"
+        "$value": "{admin.brand1.13}"
       },
       "contrast-1": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand1.contrast-1}"
+        "$value": "{admin.brand1.contrast-1}"
       },
       "contrast-2": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand1.contrast-2}"
+        "$value": "{admin.brand1.contrast-2}"
       }
     },
     "brand2": {
       "1": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand2.1}"
+        "$value": "{admin.brand2.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand2.2}"
+        "$value": "{admin.brand2.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand2.3}"
+        "$value": "{admin.brand2.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand2.4}"
+        "$value": "{admin.brand2.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand2.5}"
+        "$value": "{admin.brand2.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand2.6}"
+        "$value": "{admin.brand2.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand2.7}"
+        "$value": "{admin.brand2.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand2.8}"
+        "$value": "{admin.brand2.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand2.9}"
+        "$value": "{admin.brand2.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand2.10}"
+        "$value": "{admin.brand2.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand2.11}"
+        "$value": "{admin.brand2.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand2.12}"
+        "$value": "{admin.brand2.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand2.13}"
+        "$value": "{admin.brand2.13}"
       },
       "contrast-1": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand2.contrast-1}"
+        "$value": "{admin.brand2.contrast-1}"
       },
       "contrast-2": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand2.contrast-2}"
+        "$value": "{admin.brand2.contrast-2}"
       }
     },
     "brand3": {
       "1": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand3.1}"
+        "$value": "{admin.brand3.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand3.2}"
+        "$value": "{admin.brand3.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand3.3}"
+        "$value": "{admin.brand3.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand3.4}"
+        "$value": "{admin.brand3.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand3.5}"
+        "$value": "{admin.brand3.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand3.6}"
+        "$value": "{admin.brand3.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand3.7}"
+        "$value": "{admin.brand3.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand3.8}"
+        "$value": "{admin.brand3.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand3.9}"
+        "$value": "{admin.brand3.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand3.10}"
+        "$value": "{admin.brand3.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand3.11}"
+        "$value": "{admin.brand3.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand3.12}"
+        "$value": "{admin.brand3.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand3.13}"
+        "$value": "{admin.brand3.13}"
       },
       "contrast-1": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand3.contrast-1}"
+        "$value": "{admin.brand3.contrast-1}"
       },
       "contrast-2": {
         "$type": "color",
-        "$value": "{tema-innbyggerportal.brand3.contrast-2}"
+        "$value": "{admin.brand3.contrast-2}"
       }
     }
   },
   "font": {
     "family": {
       "$type": "fontFamilies",
-      "$value": "{tema-innbyggerportal.main}"
+      "$value": "{admin.main}"
     }
   },
   "font-weight": {
     "medium": {
       "$type": "fontWeights",
-      "$value": "{tema-innbyggerportal.bold}"
+      "$value": "{admin.bold}"
     },
     "semibold": {
       "$type": "fontWeights",
-      "$value": "{tema-innbyggerportal.extra-bold}"
+      "$value": "{admin.extra-bold}"
     },
     "regular": {
       "$type": "fontWeights",
-      "$value": "{tema-innbyggerportal.regular}"
+      "$value": "{admin.regular}"
     }
   },
   "border-radius": {
@@ -358,7 +358,7 @@
     },
     "base": {
       "$type": "borderRadius",
-      "$value": "8"
+      "$value": "4"
     },
     "scale": {
       "$type": "borderRadius",

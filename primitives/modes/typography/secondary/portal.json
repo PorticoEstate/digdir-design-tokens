@@ -1,8 +1,8 @@
 {
-  "tema-adminpanel": {
+  "portal": {
     "main": {
       "$type": "fontFamilies",
-      "$value": "IBM Plex Mono"
+      "$value": "Poppins"
     },
     "bold": {
       "$type": "fontWeights",

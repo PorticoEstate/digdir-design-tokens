@@ -1,8 +1,8 @@
 {
-  "tema-adminpanel": {
+  "portal": {
     "main": {
       "$type": "fontFamilies",
-      "$value": "IBM Plex Sans"
+      "$value": "Roboto"
     },
     "bold": {
       "$type": "fontWeights",
