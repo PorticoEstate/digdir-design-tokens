@@ -1,0 +1,16 @@
+{
+  "name": "@porticoestate/design-tokens",
+  "version": "1.0.0",
+  "description": "Css variables and tokens for frontend and figma",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx @digdir/designsystemet@1.0.0-next.40 tokens build -t ./ -o dist"
+    "install": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PorticoEstate/digdir-design-tokens.git"
+  },
+  "author": "Henning Berge",
+  "license": "GPL2"
+}
