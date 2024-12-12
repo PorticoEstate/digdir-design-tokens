@@ -2,7 +2,7 @@
   "portal": {
     "main": {
       "$type": "fontFamilies",
-      "$value": "Inter"
+      "$value": "Roboto"
     },
     "bold": {
       "$type": "fontWeights",
