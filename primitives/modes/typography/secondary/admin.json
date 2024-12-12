@@ -2,7 +2,7 @@
   "admin": {
     "main": {
       "$type": "fontFamilies",
-      "$value": "IBM Plex Mono"
+      "$value": "Inter"
     },
     "bold": {
       "$type": "fontWeights",

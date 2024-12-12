@@ -236,10 +236,6 @@
     }
   },
   "border-radius": {
-    "xs": {
-      "$type": "borderRadius",
-      "$value": "{border-radius.6}"
-    },
     "sm": {
       "$type": "borderRadius",
       "$value": "{border-radius.1}"
@@ -252,13 +248,9 @@
       "$type": "borderRadius",
       "$value": "{border-radius.3}"
     },
-    "xl": {
-      "$type": "borderRadius",
-      "$value": "{border-radius.4}"
-    },
     "default": {
       "$type": "borderRadius",
-      "$value": "{border-radius.base}"
+      "$value": "{border-radius.4}"
     },
     "full": {
       "$type": "borderRadius",

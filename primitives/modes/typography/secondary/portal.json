@@ -2,7 +2,7 @@
   "portal": {
     "main": {
       "$type": "fontFamilies",
-      "$value": "Poppins"
+      "$value": "Inter"
     },
     "bold": {
       "$type": "fontWeights",

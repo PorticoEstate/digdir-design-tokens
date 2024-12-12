@@ -334,27 +334,23 @@
   "border-radius": {
     "1": {
       "$type": "borderRadius",
-      "$value": "calc({border-radius.scale} * 1)"
+      "$value": "min( {border-radius.base} , {border-radius.scale} *1)"
     },
     "2": {
       "$type": "borderRadius",
-      "$value": "calc({border-radius.scale} * 2)"
+      "$value": "min( {border-radius.base} , {border-radius.scale} *2)"
     },
     "3": {
       "$type": "borderRadius",
-      "$value": "calc({border-radius.scale} * 4)"
+      "$value": "min( {border-radius.base} , {border-radius.scale} *5)"
     },
     "4": {
       "$type": "borderRadius",
-      "$value": "calc({border-radius.scale} * 6)"
+      "$value": "{border-radius.base}"
     },
     "5": {
       "$type": "borderRadius",
       "$value": "9999"
-    },
-    "6": {
-      "$type": "borderRadius",
-      "$value": "2"
     },
     "base": {
       "$type": "borderRadius",
