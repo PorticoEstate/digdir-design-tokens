@@ -17,7 +17,7 @@
         "fontFamily": "Roboto",
         "secondaryFontFamily": "Poppins"
       },
-      "borderRadius": 4
+      "borderRadius": 8
     }
   }
 }

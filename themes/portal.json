@@ -574,11 +574,11 @@
     },
     "3": {
       "$type": "dimension",
-      "$value": "min({border-radius.base}*2,{border-radius.scale}*5)"
+      "$value": "12"
     },
     "4": {
       "$type": "dimension",
-      "$value": "min({border-radius.base}*3,{border-radius.scale}*7)"
+      "$value": "16`"
     },
     "5": {
       "$type": "dimension",
@@ -590,7 +590,7 @@
     },
     "base": {
       "$type": "dimension",
-      "$value": "4"
+      "$value": "8"
     },
     "scale": {
       "$type": "dimension",
