@@ -264,70 +264,284 @@
         "$value": "{portal.brand2.16}"
       }
     },
-    "brand3": {
+    "info": {
       "1": {
         "$type": "color",
-        "$value": "{portal.brand3.1}"
+        "$value": "{portal.info.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{portal.brand3.2}"
+        "$value": "{portal.info.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{portal.brand3.3}"
+        "$value": "{portal.info.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{portal.brand3.4}"
+        "$value": "{portal.info.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{portal.brand3.5}"
+        "$value": "{portal.info.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{portal.brand3.6}"
+        "$value": "{portal.info.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{portal.brand3.7}"
+        "$value": "{portal.info.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{portal.brand3.8}"
+        "$value": "{portal.info.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{portal.brand3.9}"
+        "$value": "{portal.info.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{portal.brand3.10}"
+        "$value": "{portal.info.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{portal.brand3.11}"
+        "$value": "{portal.info.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{portal.brand3.12}"
+        "$value": "{portal.info.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{portal.brand3.13}"
+        "$value": "{portal.info.13}"
       },
       "14": {
         "$type": "color",
-        "$value": "{portal.brand3.14}"
+        "$value": "{portal.info.14}"
       },
       "15": {
         "$type": "color",
-        "$value": "{portal.brand3.15}"
+        "$value": "{portal.info.15}"
       },
       "16": {
         "$type": "color",
-        "$value": "{portal.brand3.16}"
+        "$value": "{portal.info.16}"
+      }
+    },
+    "success": {
+      "1": {
+        "$type": "color",
+        "$value": "{portal.success.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{portal.success.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{portal.success.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{portal.success.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{portal.success.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{portal.success.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{portal.success.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{portal.success.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{portal.success.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{portal.success.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{portal.success.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{portal.success.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{portal.success.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{portal.success.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{portal.success.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{portal.success.16}"
+      }
+    },
+    "warning": {
+      "1": {
+        "$type": "color",
+        "$value": "{portal.warning.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{portal.warning.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{portal.warning.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{portal.warning.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{portal.warning.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{portal.warning.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{portal.warning.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{portal.warning.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{portal.warning.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{portal.warning.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{portal.warning.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{portal.warning.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{portal.warning.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{portal.warning.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{portal.warning.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{portal.warning.16}"
+      }
+    },
+    "danger": {
+      "1": {
+        "$type": "color",
+        "$value": "{portal.danger.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{portal.danger.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{portal.danger.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{portal.danger.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{portal.danger.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{portal.danger.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{portal.danger.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{portal.danger.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{portal.danger.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{portal.danger.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{portal.danger.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{portal.danger.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{portal.danger.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{portal.danger.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{portal.danger.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{portal.danger.16}"
+      }
+    },
+    "link": {
+      "visited": {
+        "$type": "color",
+        "$value": "{portal.link.visited}"
+      }
+    },
+    "focus": {
+      "inner-color": {
+        "$type": "color",
+        "$value": "{portal.focus.inner}"
+      },
+      "outer-color": {
+        "$type": "color",
+        "$value": "{portal.focus.outer}"
       }
     }
   },
@@ -376,7 +590,7 @@
     },
     "base": {
       "$type": "dimension",
-      "$value": "8"
+      "$value": "4"
     },
     "scale": {
       "$type": "dimension",
