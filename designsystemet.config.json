@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/@digdir/designsystemet/dist/config.schema.json",
-  "outDir": "./design-tokens",
+  "outDir": "./",
   "themes": {
     "portal": {
       "colors": {
@@ -12,6 +12,10 @@
           "brand2": "#4E9C9A"
         },
         "neutral": "#4E4E4E"
+      },
+      "typography": {
+        "fontFamily": "Roboto",
+        "secondaryFontFamily": "Poppins"
       },
       "borderRadius": 4
     }
