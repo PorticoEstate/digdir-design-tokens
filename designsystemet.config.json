@@ -1,0 +1,19 @@
+{
+  "$schema": "node_modules/@digdir/designsystemet/dist/config.schema.json",
+  "outDir": "./design-tokens",
+  "themes": {
+    "portal": {
+      "colors": {
+        "main": {
+          "accent": "#793C8A"
+        },
+        "support": {
+          "brand1": "#28358B",
+          "brand2": "#4E9C9A"
+        },
+        "neutral": "#4E4E4E"
+      },
+      "borderRadius": 4
+    }
+  }
+}
