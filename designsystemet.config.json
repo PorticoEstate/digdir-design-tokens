@@ -17,7 +17,15 @@
         "fontFamily": "Roboto",
         "secondaryFontFamily": "Poppins"
       },
-      "borderRadius": 8
+      "borderRadius": 8,
+      "overrides": {
+        "severity": {
+          "info": "#0062BA",
+          "success": "#118849",
+          "warning": "#F39C12",
+          "danger": "#E02E49"
+        }
+      }
     }
   }
 }
