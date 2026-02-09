@@ -9,7 +9,8 @@
         },
         "support": {
           "brand1": "#28358B",
-          "brand2": "#4E9C9A"
+          "brand2": "#4E9C9A",
+          "brand3": "#b25c5c"
         },
         "neutral": "#4E4E4E"
       },
@@ -26,6 +27,23 @@
           "danger": "#E02E49"
         }
       }
+    },
+    "admin": {
+      "colors": {
+        "main": {
+          "accent": "#336278"
+        },
+        "support": {
+          "brand1": "#506a7f",
+          "brand2": "#6b8c94",
+          "brand3": "#b25c5c"
+        },
+        "neutral": "#4d4d4d"
+      },
+      "typography": {
+        "fontFamily": "IBM Plex Sans"
+      },
+      "borderRadius": 4
     }
   }
 }
