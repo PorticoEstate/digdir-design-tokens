@@ -1,8 +1,8 @@
 {
-  "portal": {
+  "admin": {
     "font-family": {
       "$type": "fontFamilies",
-      "$value": "Poppins"
+      "$value": "IBM Plex Sans"
     },
     "font-weight": {
       "medium": {
